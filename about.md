@@ -27,6 +27,12 @@ There are two excellent NLP textbooks that are freely available online. Readings
 - [Jacob Eisenstein Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 - There will be other assigned readings as well.
 
+## Computing Resources / Google Colab
+
+The programming assignments will ask you to implement state-of-the-art natural language processing algorithms, which are largely based on deep learning.  Programming assignments will be
+in [Pytorch](https://pytorch.org/), and require access to GPUs.  The class will use [Google Colab](https://research.google.com/colaboratory/faq.html) for this purpose, which provides easy access to GPUs.
+Once you start working on the part of the homework that involves Pytorch, we **highly** recommend signing up for [Colab Pro](https://colab.research.google.com/signup).  It only costs $10 / month, and will provide a better experience working on the homework assignments by providing access to better GPUs, etc.  We have investigated many options to provide students access to GPUs for the homework assignments in this class, and Colab is really the best solution.
+
 ## Resources
 
 - [Piazza](https://piazza.com/class/kj7vngax6ni7lt)
@@ -34,7 +40,7 @@ There are two excellent NLP textbooks that are freely available online. Readings
 
 ## Prerequisites
 
-This is a graduate-level course on Natural Language Processing.  The course will involve a lot of math and programming.  To succeed, you will need a strong programming background.  You should be comfortable working on medium-to-large software projects in Python and be comfortable learning and using new Python libraries, or you should have developed the ability to independently learn a new programming language and environment very quickly.  The course also assumes mastery of basic concepts in probability, linear algebra and multivariable calculus.  Having taken a prior machine learning course would be very helpful, but is not required.
+This is a graduate-level course on Natural Language Processing.  The course will involve a lot of math and programming.  To succeed, you will need a strong programming background.  You should be comfortable working on medium-to-large software projects in Python and be comfortable learning and using new Python libraries, or you should have developed the ability to independently learn a new programming language and environment very quickly.  The course also assumes mastery of basic concepts in probability, linear algebra and multi-variable calculus.  Having taken a prior machine learning course would be very helpful, but is not required.
 
 ## Assignments / Grading
 
