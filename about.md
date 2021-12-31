@@ -29,9 +29,8 @@ There are two excellent NLP textbooks that are freely available online. Readings
 
 ## Computing Resources / Google Colab
 
-The programming assignments will ask you to implement state-of-the-art natural language processing algorithms, which are largely based on deep learning.  Programming assignments will be
-in [Pytorch](https://pytorch.org/), and require access to GPUs.  The class will use [Google Colab](https://research.google.com/colaboratory/faq.html) for this purpose, which provides easy access to GPUs.
-Once you start working on the part of the homework that involves Pytorch, we **highly** recommend signing up for [Colab Pro](https://colab.research.google.com/signup).  It only costs $10 / month, and will provide a better experience working on the homework assignments by providing access to better GPUs, etc.  We have investigated many options to provide students access to GPUs for the homework assignments in this class, and Colab is really the best solution.
+The programming assignments will ask you to implement state-of-the-art natural language processing algorithms using neural networks.  For this purpose we will use [Pytorch](https://pytorch.org/), and you will require access to GPUs.  The class will use [Google Colab](https://research.google.com/colaboratory/faq.html), which provides easy access to GPUs.
+Once you start working on the part of the homework that involves Pytorch, we **highly** recommend signing up for [Colab Pro](https://colab.research.google.com/signup).  It only costs $10 / month, and will provide a better experience working on the homework assignments by providing access to better GPUs, etc.  We have investigated many options to provide students access to GPUs for the homework assignments, and Colab really is the best solution for students to get access to GPUs in a class like this.
 
 ## Resources
 
