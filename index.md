@@ -17,8 +17,13 @@ seo:
 [Announcements](announcements.md){: .btn .btn-outline .fs-3 }
 {% endif %}
 
-- [Piazza](https://piazza.com/class/kj7vngax6ni7lt) (announcements, questions, discussion)
-- [Gradescope](https://www.gradescope.com/courses/218786) (homework assignments, submission and grading)
+The lectures for this course will be streamed and recorded using Bluejeans.  The link will be provided [here]() shortly
+
+- Location: Instructional Center 211
+- Time: MW 2:00 pm - 3:15 pm
+- [Piazza](https://piazza.com/class/kxuyn4sdh0p6ve) (announcements, questions, discussion)
+- [Gradescope](https://www.gradescope.com/courses/344493) (homework assignments, submission and grading)
+- [Tentative Coruse Schedule](https://docs.google.com/spreadsheets/d/1GZHMzZ_p4APtYRTiReEJ_PU4wkdQSHgUGTd3xptCO8Q/edit?usp=sharing)
 
 {% for module in site.modules %}
 {{ module }}

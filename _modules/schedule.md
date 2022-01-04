@@ -2,16 +2,22 @@
 title: Schedule
 ---
 
-Jan 18
-: MLK Holiday
-
-Jan 20
+Jan 10
 : [Course Introduction](https://aritter.github.io/CS-7650/slides/lec1-intro.pdf)
   : [Eisenstein Chapter 1](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
-Jan 25
-: [Machine Learning](https://aritter.github.io/CS-7650/slides/lec2-ml.pdf) (Problem Set 1 due)
+Jan 12
+: [Machine Learning](https://aritter.github.io/CS-7650/slides/lec2-ml.pdf)
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
+Jan 13
+: Problem Set 1 due
+
+Jan 17
+: MLK Holiday
+
+<!---
+
 
 Jan 27
 : [Machine Learning](https://aritter.github.io/CS-7650/slides/lec3-mcc.pdf) (cont)
@@ -80,3 +86,4 @@ April 26
 
 May 5
 : Final Project Reports Due (submit on Gradescope)
+-->
