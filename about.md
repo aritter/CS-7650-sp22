@@ -40,7 +40,12 @@ We **highly** recommend signing up for [Colab Pro](https://colab.research.google
 
 ## Prerequisites
 
-This is a graduate course that covers advanced machine learning techniques for Natural Language Processing.  The course involves a lot of math and hands-on programming exercises to implement the algorithms we will discuss in the lecture.  To succeed, you need to have a very strong programming background in addition to a firm grasp of probability, linear algebra, and multi-variable calculus.  You should be comfortable working on medium-to-large software projects in Python and be comfortable learning and using new Python libraries, or you should have developed the ability to independently learn a new programming language and environment very quickly.  If you don't have the needed pre-requisites, you should expect to spend a lot of time studying these topics independently to catch up during the semester (in this case we recommend waiting to take the course until a later semester when you have completed the missing pre-reqs).
+This is a graduate course that covers advanced machine learning techniques for Natural Language Processing.  The course involves a lot of math and hands-on programming exercises to implement the algorithms we will discuss in the lecture.  To succeed, you need to have a very strong programming background in addition to a firm grasp of probability, linear algebra, and multi-variable calculus.  You should be comfortable working on medium-to-large software projects in Python and be comfortable learning and using new Python libraries, or you should have developed the ability to independently learn a new programming language and environment very quickly.
+
+There will be a math background review (due in the 1st week) and a programming homework (due in the 4th week).
+If you find the problems difficult, you should expect a lot of extra work and challenges to catch up – we strongly suggest you wait and take this class in a later semester.  If you don't have the needed pre-requisites, you should expect to spend a lot of time studying these topics independently to catch up during the semester (in this case we recommend waiting to take the course until a later semester when you have completed the missing pre-reqs).
+
+(**For students on the wait list:** we don't have any additional information on whether you will be able to enroll in the course, but if you plan to enroll in the course, please complete and submit the background review homework during the first week of the course.)
 
 ## Assignments / Grading
 
