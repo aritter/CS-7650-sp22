@@ -45,7 +45,7 @@ This is a graduate course that covers advanced machine learning techniques for N
 There will be a math background review (due in the 1st week) and a programming homework (due in the 4th week).
 If you find the problems difficult, you should expect a lot of extra work and challenges to catch up – we strongly suggest you wait and take this class in a later semester.  If you don't have the needed pre-requisites, you should expect to spend a lot of time studying these topics independently to catch up during the semester (in this case we recommend waiting to take the course until a later semester when you have completed the missing pre-reqs).
 
-(**For students on the wait list:** we don't have any additional information on whether you will be able to enroll in the course, but if you plan to try and enroll, please complete and submit the background review, which is due during the first week.  Email the TAs to get the access code to access the assignment on Gradescope.)
+(**For students on the wait list:** we don't have any additional information on whether you will be able to enroll in the course, but if you plan to try and enroll, please complete and submit the background review, which is due during the first week.  Please post a private Piazza message to get the access code to access the assignment on Gradescope.)
 
 ## Assignments / Grading
 
