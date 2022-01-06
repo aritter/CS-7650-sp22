@@ -17,7 +17,7 @@ seo:
 [Announcements](announcements.md){: .btn .btn-outline .fs-3 }
 {% endif %}
 
-The lectures for this course will be streamed and recorded using Bluejeans.  The link will be provided [here]() shortly
+The lectures for this course will be streamed and recorded using Bluejeans.  The link is available [here](https://bluejeans.com/764447839/0241).
 
 - Location: Instructional Center 211
 - Time: MW 2:00 pm - 3:15 pm
