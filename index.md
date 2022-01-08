@@ -23,7 +23,7 @@ The lectures for this course will be streamed and recorded using Bluejeans.  The
 - Time: MW 2:00 pm - 3:15 pm
 - [Piazza](https://piazza.com/class/kxuyn4sdh0p6ve) (announcements, questions, discussion)
 - [Gradescope](https://www.gradescope.com/courses/344493) (homework assignments, submission and grading)
-- [Tentative Coruse Schedule](https://docs.google.com/spreadsheets/d/1GZHMzZ_p4APtYRTiReEJ_PU4wkdQSHgUGTd3xptCO8Q/edit?usp=sharing)
+- [Tentative Course Schedule](https://docs.google.com/spreadsheets/d/1GZHMzZ_p4APtYRTiReEJ_PU4wkdQSHgUGTd3xptCO8Q/edit?usp=sharing)
 
 {% for module in site.modules %}
 {{ module }}
