@@ -32,6 +32,10 @@ There are two excellent NLP textbooks that are freely available online. Readings
 The programming assignments will ask you to implement state-of-the-art natural language processing algorithms using neural networks.  For this purpose we will use [Pytorch](https://pytorch.org/), and you will require access to GPUs.  The class will use [Google Colab](https://research.google.com/colaboratory/faq.html), which provides easy access to GPUs.
 We **highly** recommend signing up for [Colab Pro](https://colab.research.google.com/signup) (once you start working on the part of the homework that uses Pytorch).  This costs $10 / month, which is roughly equivalent to the cost of a textbook over the course of the semester.  This will provide a better experience working on the homework assignments by giving you access to better GPUs, etc.  We have investigated other options to provide students access to GPUs for the homework assignments (Google cloud credits and PACE/ICE), and have found Colab Pro is the best solution.  Of course you are welcome to use other GPU resources to complete the assignments if you choose, but we cannot provide support for this.  You will need to submit your code and program output in Jupyter Notebook format.
 
+## Attendance
+
+We are planning to record and stream lectures over BlueJeans, so it should be possible to attend the course remotely if you like.  Please wear a mask if you decide to attend class in person, out of respect for others.  This will help make the classroom a safe environment for everyone (especially those who may have underlying health conditions or be living with those who do).
+
 ## Resources
 
 - [Piazza](https://piazza.com/class/kxuyn4sdh0p6ve) (announcements, questions, discussion)
