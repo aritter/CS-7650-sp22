@@ -30,7 +30,7 @@ There are two excellent NLP textbooks that are freely available online. Readings
 ## Computing Resources / Colab Pro
 
 The programming assignments will ask you to implement state-of-the-art natural language processing algorithms using neural networks.  For this purpose we will use [Pytorch](https://pytorch.org/), and you will require access to GPUs.  The class will use [Google Colab](https://research.google.com/colaboratory/faq.html), which provides easy access to GPUs.
-We **highly** recommend signing up for [Colab Pro](https://colab.research.google.com/signup) (once you start working on the part of the homework that uses Pytorch).  This costs $10 / month, which is roughly equivalent to the cost of a textbook over the course of the semester.  This will provide a better experience working on the homework assignments by providing you access to better GPUs, etc.  We have investigated other options to provide students access to GPUs for the homework assignments (Google cloud credits and PACE/ICE), and have found that Colab Pro is the best solution for a large class such as this.
+We **highly** recommend signing up for [Colab Pro](https://colab.research.google.com/signup) (once you start working on the part of the homework that uses Pytorch).  This costs $10 / month, which is roughly equivalent to the cost of a textbook over the course of the semester.  This will provide a better experience working on the homework assignments by giving you access to better GPUs, etc.  We have investigated other options to provide students access to GPUs for the homework assignments (Google cloud credits and PACE/ICE), and have found Colab Pro is the best solution.  Of course you are welcome to use other GPU resources to complete the assignments if you choose, but we cannot provide support for this.  You will need to submit your code and program output in Jupyter Notebook format.
 
 ## Resources
 
@@ -40,12 +40,12 @@ We **highly** recommend signing up for [Colab Pro](https://colab.research.google
 
 ## Prerequisites
 
-This is a graduate course that covers advanced machine learning techniques for Natural Language Processing.  The course involves a lot of math and hands-on programming exercises to implement the algorithms we will discuss in the lecture.  To succeed, you need to have a very strong programming background in addition to a firm grasp of probability, linear algebra, and multi-variable calculus.  You should be comfortable working on medium-to-large software projects in Python and be comfortable learning and using new Python libraries, or you should have developed the ability to independently learn a new programming language and environment very quickly.
+This is a graduate course that covers advanced machine learning techniques for Natural Language Processing.  The course involves a lot of math and hands-on programming exercises to implement the algorithms we will discuss in the lecture.  To succeed, you need to have a very strong programming background in addition to a firm grasp of probability, linear algebra, and multivariable calculus.  You should be comfortable working on medium-to-large software projects in Python and be comfortable learning and using new Python libraries, or you should have developed the ability to independently learn a new programming language and environment very quickly.
 
 There will be a math background review (due in the 1st week) and a programming homework (due in the 4th week).
-If you find the problems difficult, you should expect a lot of extra work and challenges to catch up – we strongly suggest you wait and take this class in a later semester.  If you don't have the needed pre-requisites, you should expect to spend a lot of time studying these topics independently to catch up during the semester (in this case we recommend waiting to take the course until a later semester when you have completed the missing pre-reqs).
+If you find these problems difficult, you should expect a lot of extra work and challenges to catch up – we strongly suggest you wait and take this class in a later semester.
 
-(**For students on the wait list:** we don't have any additional information on whether you will be able to enroll in the course, but if you plan to try and enroll, please complete and submit the background review, which is due during the first week.  Please post a private Piazza message to get the access code to access the assignment on Gradescope.)
+(**For students on the wait list:** we don't have any additional information on whether you will be able to enroll in the course, but if you plan to try and enroll, please complete and submit Problem Set 1, which is due during the first week.  Please post a private Piazza message to get the access code to access Gradescope.)
 
 ## Assignments / Grading
 
@@ -54,7 +54,7 @@ Please email your homework to the instructor in case of technical issues with su
 
 Each student will have 3 flexible days to turn in late homework throughout the semester. The late days will be applied to homework assignments in the order of submission. As an example, you could turn in the first homework 2 days late and the second homework 1 day late without any penalty. After that you will loose 20% for each day an assignment is handed in late. These 3 late days are meant for personal emergencies; if you use late days for non-emergency situations but later encounter emergencies in the semester, you will not be given extra late days. No late days will be allowed for the final project, due to the tight deadline for posting the final grades as required by the university.
 
-All homework will be rescaled proportionally into the final numerical grade, which will then be mapped to letter grade according to a cutoff based on the overall class grade distribution. The standard cutoff is 90/80/70% for A/B/C, but we may curve up (never down), i.e., use lower cutoffs than these. The cutoffs will only be determined after we grade the final project at the end of the semester.
+All homework will be rescaled proportionally into a final numerical grade, which will then be mapped to letter grade according to a cutoff based on the overall class grade distribution. The standard cutoff is 90/80/70% for A/B/C, but we may curve up (never down), i.e., use lower cutoffs than these. The cutoffs will only be determined after we grade the final project at the end of the semester.
 
 ### Programming Assignments (Projects) - 40%
 
