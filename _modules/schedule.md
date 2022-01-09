@@ -11,10 +11,13 @@ Jan 12
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Jan 13
-: Problem Set 1 due
+: [Problem Set 1](https://aritter.github.io/CS-7650/slides/pset1.pdf) due
 
 Jan 17
 : MLK Holiday
+
+TBD
+: [Project 1](https://colab.research.google.com/drive/1ulvIvI5LWWGrk1P0gkcMY2X3tmJfUcZN)
 
 <!---
 
