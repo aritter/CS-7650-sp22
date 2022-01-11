@@ -17,7 +17,7 @@ Jan 17
 : MLK Holiday
 
 TBD
-: [Project 1](https://colab.research.google.com/drive/1ulvIvI5LWWGrk1P0gkcMY2X3tmJfUcZN)
+: [Project 1 (version 2 - 1/11/2021)](https://colab.research.google.com/drive/1trrreCuhH0HG45gWKqUZJdtl3OyaOSzT)
 
 <!---
 
