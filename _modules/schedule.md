@@ -20,8 +20,8 @@ Jan 24
 : [Machine Learning (multi-class) ](https://aritter.github.io/CS-7650/slides/lec3-mcc.pdf) (cont)
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
-TBD
-: [Project 1 (version 2 - 1/11/2021)](https://colab.research.google.com/drive/1trrreCuhH0HG45gWKqUZJdtl3OyaOSzT)
+Feb 1
+: [Project 1 Due](https://colab.research.google.com/drive/1trrreCuhH0HG45gWKqUZJdtl3OyaOSzT)
 
 <!---
 
