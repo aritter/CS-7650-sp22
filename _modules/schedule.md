@@ -24,6 +24,10 @@ Jan 26
 : [Neural Networks in NLP](https://aritter.github.io/CS-7650-sp22/slides/lec6-nn.pdf)
   : [Eisenstein 2.6, 3.1-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf)
 
+Jan 31
+: [Sequence Models](https://aritter.github.io/CS-7650-sp22/slides/lec4-seq1.pdf) 
+  : [Eisenstein 7.0-7.4](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M Chapter 8](https://web.stanford.edu/~jurafsky/slp3/8.pdf)
+
 Feb 1
 : [Project 1 Due](https://colab.research.google.com/drive/1trrreCuhH0HG45gWKqUZJdtl3OyaOSzT)
 
