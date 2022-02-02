@@ -31,6 +31,10 @@ Jan 31
 Feb 1
 : [Project 1 Due](https://colab.research.google.com/drive/1trrreCuhH0HG45gWKqUZJdtl3OyaOSzT)
 
+Feb 7
+: [Conditional Random Fields](https://aritter.github.io/CS-7650/slides/lec5-seq2.pdf)
+  : [Eisenstein 7.5, 8.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
 <!---
 
 
