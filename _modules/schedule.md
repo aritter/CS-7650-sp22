@@ -39,12 +39,13 @@ Feb 14
 : [Word Embeddings](https://aritter.github.io/CS-7650-sp22/slides/lec7-nn2.pdf)
   : [Eisenstein 3.3.4, 14.5, 14.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M Chapter 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
 
+Feb 16
+: [Recurrent Neural Networks](https://aritter.github.io/CS-7650-sp22/slides/lec8-nn3.pdf)
+  : [J+M 9.2, 9.4, 9.5, 9.6](https://web.stanford.edu/~jurafsky/slp3/9.pdf), [Eisenstein 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
 Feb 17
 : Problem Set 2 Due
 
-Feb 21
-: [Recurrent Neural Networks](https://aritter.github.io/CS-7650-sp22/slides/lec8-nn3.pdf)
-  : [J+M 9.2, 9.4, 9.5, 9.6](https://web.stanford.edu/~jurafsky/slp3/9.pdf), [Eisenstein 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 <!---
 
