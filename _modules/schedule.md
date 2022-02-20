@@ -46,15 +46,15 @@ Feb 16
 Feb 17
 : Problem Set 2 Due
 
+Feb 21
+: [Convolutional Neural Networks and Neural CRFs](https://aritter.github.io/CS-7650/slides/lec9-nn4.pdf)
+  : [Eisenstein 3.4, 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
 Mar 8
 : [Project 2 Due](https://colab.research.google.com/drive/1dS210cQT4wAJIxfgoftVmAvtay0cXYd4?usp=sharing)
 
 
 <!---
-
-Feb 24
-: [Recurrent Neural Networks](https://aritter.github.io/CS-7650/slides/lec8-nn3.pdf)
-  : [J+M 9.2, 9.3](https://web.stanford.edu/~jurafsky/slp3/9.pdf), [Eisenstein 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Mar 3
 : [Convolutional Neural Networks and Neural CRFs](https://aritter.github.io/CS-7650/slides/lec9-nn4.pdf)
