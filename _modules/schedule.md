@@ -54,15 +54,15 @@ Feb 23
 : [Neural CRFs (cont.)](https://aritter.github.io/CS-7650-sp22/slides/lec9-nn4.pdf) and [Course Projects](https://aritter.github.io/CS-7650-sp22/slides/course_project.pdf)
   : [Eisenstein 3.4, 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
+Feb 28
+: [Statistical Machine Translation](https://aritter.github.io/CS-7650-sp22/slides/lec10-mt1.pdf)
+  : [Eisenstein 18.1, 18.2](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
 Mar 8
 : [Project 2 Due](https://colab.research.google.com/drive/1dS210cQT4wAJIxfgoftVmAvtay0cXYd4?usp=sharing)
 
 
 <!---
-
-Mar 3
-: [Convolutional Neural Networks and Neural CRFs](https://aritter.github.io/CS-7650/slides/lec9-nn4.pdf)
-  : [Eisenstein 3.4, 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Mar 10
 : [Statistical Machine Translation](https://aritter.github.io/CS-7650/slides/lec10-mt1.pdf)
