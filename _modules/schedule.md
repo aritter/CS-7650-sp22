@@ -63,6 +63,9 @@ Mar 2
   : [Eisenstein 18.3 - 18.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Mar 8
+: No Class
+
+Mar 11
 : [Project 2 Due](https://colab.research.google.com/drive/1dS210cQT4wAJIxfgoftVmAvtay0cXYd4?usp=sharing)
 
 
