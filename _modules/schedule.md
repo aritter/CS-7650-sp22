@@ -68,10 +68,14 @@ Mar 8
 Mar 11
 : [Project 2 Due](https://colab.research.google.com/drive/1dS210cQT4wAJIxfgoftVmAvtay0cXYd4?usp=sharing)
 
-TBD
+Mar 14
+: [Machine Translation Part 2](https://aritter.github.io/CS-7650/slides/lec12-mt2.pdf)
+  : [Eisenstein 18.3 - 18.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
+Apr 8
 : [Project 3 Due](https://colab.research.google.com/drive/1vClTRAlQyg-WKrctvHTIXAGsWi4X-B_U?usp=sharing)
 
-April 13
+Apr 13
 : Guest Lecture by [Luheng He](https://research.google/people/LuhengHe/) (Google AI Language)
   : [Ex2](https://arxiv.org/abs/2102.01335), [Retrieval](https://arxiv.org/abs/2104.05763) and [QA-Based](https://aclanthology.org/2021.acl-short.83/) slot filling.
 
@@ -79,10 +83,6 @@ April 13
 
 Mar 24
 : Mid-Semester Break (no class)
-
-Mar 29
-: [Machine Translation Part 2](https://aritter.github.io/CS-7650/slides/lec12-mt2.pdf)
-  : [Eisenstein 18.3 - 18.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 April 4
 : [Pretrained Transformers](https://aritter.github.io/CS-7650/slides/lec13-bert.pdf)
