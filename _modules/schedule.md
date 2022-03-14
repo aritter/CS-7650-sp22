@@ -69,8 +69,8 @@ Mar 11
 : [Project 2 Due](https://colab.research.google.com/drive/1dS210cQT4wAJIxfgoftVmAvtay0cXYd4?usp=sharing)
 
 Mar 14
-: [Machine Translation Part 2](https://aritter.github.io/CS-7650/slides/lec12-mt2.pdf)
-  : [Eisenstein 18.3 - 18.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+: [Neural Machine Translation, Transformers](https://aritter.github.io/CS-7650-sp22/slides/lec12-mt2.pdf)
+  : [Eisenstein 18.3 - 18.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 10.6](https://web.stanford.edu/~jurafsky/slp3/10.pdf)
 
 Apr 8
 : [Project 3 Due](https://colab.research.google.com/drive/1vClTRAlQyg-WKrctvHTIXAGsWi4X-B_U?usp=sharing)
