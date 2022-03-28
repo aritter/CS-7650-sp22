@@ -72,6 +72,10 @@ Mar 16
 : [Neural Machine Translation, Transformers](https://aritter.github.io/CS-7650-sp22/slides/lec12-mt2.pdf)
   : [Eisenstein 18.3 - 18.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 10.6](https://web.stanford.edu/~jurafsky/slp3/10.pdf)
 
+Mar 28
+: [Pre-training, BERT](https://aritter.github.io/CS-7650-sp22/slides/lec13-bert.pdf)
+  : [ELMo](https://www.aclweb.org/anthology/N18-1202.pdf) [BERT](https://www.aclweb.org/anthology/N19-1423.pdf)
+
 Apr 8
 : [Project 3 Due](https://colab.research.google.com/drive/1vClTRAlQyg-WKrctvHTIXAGsWi4X-B_U?usp=sharing)
 
