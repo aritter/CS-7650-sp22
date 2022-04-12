@@ -99,6 +99,9 @@ Apr 13
 : Guest Lecture by [Luheng He](https://research.google/people/LuhengHe/) (Google AI Language)
   : [Ex2](https://arxiv.org/abs/2102.01335), [Retrieval](https://arxiv.org/abs/2104.05763) and [QA-Based](https://aclanthology.org/2021.acl-short.83/) slot filling.
 
+April 19
+: Midterm Due
+
 <!---
 
 Mar 24
