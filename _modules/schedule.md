@@ -109,6 +109,9 @@ April 19
 April 20
 : Wrapup / Ethics
 
+May 4
+: Final Project Reports Due
+
 <!---
 
 Mar 24
