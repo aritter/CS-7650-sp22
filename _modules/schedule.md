@@ -92,15 +92,22 @@ Apr 8
 : [Project 3 Due](https://colab.research.google.com/drive/1vClTRAlQyg-WKrctvHTIXAGsWi4X-B_U?usp=sharing)
 
 April 11
-: [Question Answering 1](https://aritter.github.io/CS-7650-sp22/slides/lec14-qa1.pdf)
+: [Question Answering](https://aritter.github.io/CS-7650-sp22/slides/lec14-qa1.pdf)
   : [J+M Chapter 23](https://web.stanford.edu/~jurafsky/slp3/23.pdf)
 
 Apr 13
 : Guest Lecture by [Luheng He](https://research.google/people/LuhengHe/) (Google AI Language)
   : [Ex2](https://arxiv.org/abs/2102.01335), [Retrieval](https://arxiv.org/abs/2104.05763) and [QA-Based](https://aclanthology.org/2021.acl-short.83/) slot filling.
 
+April 18
+: Question Answering (Adversarial, Multi-Hop, etc.)
+  : [J+M Chapter 23](https://web.stanford.edu/~jurafsky/slp3/23.pdf)
+
 April 19
 : Midterm Due
+
+April 20
+: Wrapup / Ethics
 
 <!---
 
