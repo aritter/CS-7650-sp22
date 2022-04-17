@@ -107,7 +107,7 @@ April 19
 : Midterm Due
 
 April 20
-: Wrapup / Ethics
+: Wrapup, Ethics
 
 May 4
 : Final Project Reports Due
