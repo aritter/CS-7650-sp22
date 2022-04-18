@@ -100,7 +100,7 @@ Apr 13
   : [Ex2](https://arxiv.org/abs/2102.01335), [Retrieval](https://arxiv.org/abs/2104.05763) and [QA-Based](https://aclanthology.org/2021.acl-short.83/) slot filling.
 
 April 18
-: [Question Answering (Adversarial, Multi-Hop, etc.)](https://aritter.github.io/CS-7650-sp22/slides/lec14-qa2.pdf)
+: [Question Answering (Adversarial, Multi-Hop, etc.)](https://aritter.github.io/CS-7650-sp22/slides/lec15-qa2.pdf)
   : [J+M Chapter 23](https://web.stanford.edu/~jurafsky/slp3/23.pdf)
 
 April 19
