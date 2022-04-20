@@ -107,7 +107,7 @@ April 19
 : Midterm Due
 
 April 20
-: Wrapup, Ethics
+: [Wrapup / Multilingual / Ethics](https://aritter.github.io/CS-7650-sp22/slides/lec18-multilingual_wrapup.pdf)
 
 May 4
 : Final Project Reports Due
