@@ -1,0 +1,6 @@
+---
+title: Announcements
+---
+
+Test Announcement
+
